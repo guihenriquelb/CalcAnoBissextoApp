@@ -15,7 +15,7 @@ A aplicação consiste em verificar se o ano informado pelo usuário é bissexto
 - Java
 
 ## Front end
-- 
+
 
 # Instalação no Android Studio
 
